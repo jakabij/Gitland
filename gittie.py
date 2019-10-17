@@ -17,4 +17,4 @@ def shout():
     print("asd")
     print("Shout!")
     print("cic2a")
-    print("NEW COMMIT")
+    print("NEW COM2MIT")
