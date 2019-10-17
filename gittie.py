@@ -14,4 +14,4 @@ def joke():
 
 
 def shout():
-    print("Shout!")
+    print("asd")
